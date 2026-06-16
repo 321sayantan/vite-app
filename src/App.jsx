@@ -24,6 +24,7 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
+        <img src="src/assets/612503328_17906200185335708_3025303023599173422_n.jpg" style={{ width: '50%', height: 'auto' }} alt="Description" />
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
